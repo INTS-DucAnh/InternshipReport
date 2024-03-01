@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "internshipreport-storage",
+  "private_key_id": "5b0dbc69061907f15e384002e838f34aef33f4c4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCdp+NHQ6FW8kTl\nXDjeLWBhx0ykA8SoxMmmK8roLvFg5Ib2NEXoPn3jaOBxFEJ1SowjcjOHrt5EPv0f\nUfkHwWqgVa6eWM5032nvWiWsoKPUcMLhTkwa9vzuxRzRLkT4C2lEjMq6PuS4bfdp\n6kxcXyfWezmIeKjjeJZVOYucvM1HOJXWYJO3kv0b1eXd8ZVncKNNU7l6WkbFr6RY\nL9SKbzRU0B7LGoqSiv8GCgXKaiAiRMee7Q+R8tAUR13IKqYBpkHUnrM/I2ANjhMq\nEu4ClCQe1SlwhruFKKGc3i0jSfFFrltc95jUHNyiZTi/zA6E1KGr5J5XCugx1Ywr\nno4C2IYTAgMBAAECggEACoAdHij9/PmD5zbePsYM7lZE34O0vHzm5V9zU0WVJBv0\ndT+EDHTlE5lvoXh0+LTvYoj/r6DRAwCjAUwHZyHVxToPuFI35gbfWmbJrZbBcqvT\n/welAALFU+3i/nezdkXkTAGImyEHQNVqLi7ByUE5OQraCSHoNcZZVPHRP64/iee7\nKCBRc5NkCx114eUVkoxrmxjIY0WBB3CPYlxPk0yWTfHzdht1UV+xvw8gxlwCopGC\nIQlrygfS0iOSZJs3IiJJ43ONIElKQfRRMsgtsfAqqm6b4ODwfuHo4LMyMiSMryaz\nbO6F7AiweGjha/n938i2Vu+nxfysk4VoUaeJgtHicQKBgQDJwQIWiTGmK6jY2oR5\nfamd4pA3hZxWCbEOJ5ZLY2Pa9F2zDZfAHwbYF+/j5pg24Om6ry36jA5L9Rfs9d22\nYjAussR4mTeFoq59lRKVHz2dUFWcUmKDMoWJLHCAEgP4nEDnpKeM8TSDkkvufgL9\nUuUsRR8wRQasoi7x+Ks7YXsFuQKBgQDIC4wGXaj4uCMjsH/ZXm3s3yhpuyfXddEG\n+aoFCmoW5Z9SV5W1lQ/2cT9EOrDVdPUyNHMzjWSc36Vo88DIIc/OLVJdnLBpGDRD\nd/LFf3fNrWeLvX/sj0F1xYXYY4Ni5Dqv+S5GCGgc8UmvUQJ+HkD4+GU0f6mlhvjH\nLb09QusQKwKBgQCeKz1q04XkA2htEes3n+fBCqULkij9Xr27Hhf65GGdf2SSAj8M\n9IYWFbYREnAU3gD/RWUjfnea3vwx3pNB7/pcMfRLo7refqqTc7JMzGAum5NyaTgo\nKQx9fSR5kyYf2sgbkn90xIjp+WCkCZBob3uRWGNaIVNZNhDdzJjZhdO/qQKBgQCK\n76If5brui400Q2h4QuJb6p252VeRiG1Vx96yw4ntPyvJV7VNuSquAfdr3stkZWfK\np6z/OAuR/K54VxskpH8cdlPHWoUXaM0bsto1GxPNEMtivYl0dgaD0lzkbjEZZOPx\nxkHCOCJ/P4HqtnvhtgdwI6y+qo/bvANa6sSNIMX7owKBgGnyEBDlQ+ioxvui8Vgm\n7nzl7+B9qVj3cgc79gZuvqhIcEzaemtFn5wz3E0WBVEqorNB61HPBZgTKE9HNMtF\noiekXGknD0uGYM7VugwGxM/0XdEWFrbf5FKHrk+sZMjxbgtBMqYHyRhUgZ+nxbUY\n4FY9TF8jYkoeyMo7uS+F0xHq\n-----END PRIVATE KEY-----\n",
+  "client_email": "ir-cloud-storage@internshipreport-storage.iam.gserviceaccount.com",
+  "client_id": "102175884211207089479",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ir-cloud-storage%40internshipreport-storage.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
