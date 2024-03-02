@@ -27,7 +27,7 @@ export class ReportController {
   async findDoc(@Query() query: FindReportQueryDto) {
     const { skip, limit, ...options } = query;
     const condition = Object.entries(options).reduce((prev, curr) => {
-      prev.push({ field: curr[0], data: curr[1] });
+      if (!!curr[1]) prev.push({ field: curr[0], data: curr[1] });
       return prev;
     }, []);
     const dataRes = await this.reportService.findByConditions(
