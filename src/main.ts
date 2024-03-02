@@ -8,7 +8,7 @@ async function bootstrap() {
   app.enableCors({
     origin: [
       'http://localhost:3000',
-      'https://ints-internreport-fe.vercel.app/',
+      'https://ints-internreport-fe.vercel.app',
     ],
     methods: ['GET', 'POST', 'PUT'],
     allowedHeaders: 'Content-Type, Access-Control-Allow-Headers, Authorization',
