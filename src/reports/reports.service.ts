@@ -102,7 +102,11 @@ export class ReportsService {
     return this.reportItemModel
       .find(
         conditions.reduce((prev, curr) => {
-          if (curr.data !== '' && parseInt(curr.data) !== 0) {
+          if (curr.field === 'date') {
+            if (curr.data.length !== 0) {
+              prev[curr.field] = curr.data;
+            }
+          } else if (curr.data !== '' && parseInt(curr.data) !== 0) {
             prev[curr.field] = curr.data;
           }
           return prev;
