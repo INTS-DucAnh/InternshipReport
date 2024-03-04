@@ -18,9 +18,9 @@ export class GetReportQueryDto {
 }
 
 export class FindReportQueryDto {
-  skip: number;
-  limit: number;
-  day?: number;
-  week?: number;
-  date?: Date;
+  skip: number | undefined;
+  limit: number | undefined;
+  day?: number | undefined;
+  week?: number | undefined;
+  date?: Date | undefined;
 }
