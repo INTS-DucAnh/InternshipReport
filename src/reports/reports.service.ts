@@ -112,6 +112,7 @@ export class ReportsService {
           return prev;
         }, {}),
       )
+      .sort({ date: -1 })
       .skip(skip)
       .limit(limit);
   }

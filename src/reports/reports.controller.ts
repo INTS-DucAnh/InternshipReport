@@ -36,7 +36,7 @@ export class ReportController {
       condition,
     );
     return {
-      success: dataRes.length,
+      success: dataRes.length !== 0,
       data: dataRes,
     };
   }
